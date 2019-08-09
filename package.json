@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A simple project to utilize smpp library for sending messages",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "serve": "node server.js"
+  },
   "author": "Shashank Shekhar(Ashwamegh)",
   "license": "MIT",
   "private": false,
