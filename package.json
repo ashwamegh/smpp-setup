@@ -1,0 +1,13 @@
+{
+  "name": "smpp-lib",
+  "version": "1.0.0",
+  "description": "A simple project to utilize smpp library for sending messages",
+  "main": "index.js",
+  "author": "Shashank Shekhar(Ashwamegh)",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "smpp": "^0.4.0"
+  }
+}
