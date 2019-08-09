@@ -1,5 +1,5 @@
 {
-  "name": "smpp-lib",
+  "name": "smpp-setup",
   "version": "1.0.0",
   "description": "A simple project to utilize smpp library for sending messages",
   "main": "index.js",
